@@ -5,5 +5,9 @@ SOURCE="/home/ishikawa/Documents/Test_1/"
 DEST="/home/ishikawa/Documents/Test_2/"
 
 echo "Copying files..."
-cp "$SOURCE"R2* "$SOURCE"R0* "$DEST"/
-echo "File copy complete!"
+
+if cp "$SOURCE"R2* "$SOURCE"R0* "$DEST"/; then
+	echo "File copy complete!"
+else
+	echo "File copy failed."
+fi
