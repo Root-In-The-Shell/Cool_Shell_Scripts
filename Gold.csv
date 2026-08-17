@@ -1,0 +1,11 @@
+Status,region,area,freq,sig,sytem,latlong
+active,reg1,area1,123,sig1,system1,1234N 5678E
+active,reg2,area2,124,sig2,system2,1235N 5678E
+active,reg3,area3,125,sig3,system3,1236N 5678E
+inactive,reg4,area4,126,sig4,system4,1237N 5678E
+active,reg5,area5,127,sig5,system5,1238N 5678E
+active,reg6,area6,128,sig6,system6,1239N 5678E
+active,reg7,area7,129,sig7,system7,1240N 5678E
+active,reg8,area8,130,sig8,system8,1241N 5678E
+active,reg9,area9,131,sig9,system9,1242N 5678E
+active,reg10,area10,132,sig10,system10,1243N 5678E
